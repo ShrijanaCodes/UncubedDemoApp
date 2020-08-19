@@ -36,5 +36,5 @@ VerificationToken='Provide Your Zoom App Verification Token Generated in Step 2 
 In this demo app, we have used Meeting Ended Event and List Past Meeting Details API. However, you can customize the workflow based on your needs by using any available Zoom APIs and Webhooks. 
 
 
-**Deliver Happiness with Zoom Services** :grinning:	 **Happy Coding** :innocent:	
+ **Happy Coding** :innocent:	
 
