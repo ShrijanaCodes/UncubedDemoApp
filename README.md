@@ -18,7 +18,7 @@ This is a demo app built for a workshop that I will be conducting for Uncubed.
 3. Create a [JWT app](https://marketplace.zoom.us/docs/guides/getting-started/app-types/create-jwt-app) in the Zoom App Marketplace. Provide all the information required and your app credentials will be generated. In the features page,add a new [event subscription](https://marketplace.zoom.us/docs/guides/getting-started/app-types/create-jwt-app#features). <br><br>For the **Event notification endpoint URL**, use [ngrok](https://ngrok.com/download) or a similar service to generate a HTTP tunnel. Once you download ngrok, run `./ngrok http 3000.` command in your terminal. Provide the generated url starting with "https" as your Event notification endpoint URL. Under Event Types, click on Meeting and subscribe to the "End Meeting" event. Save the subscription and click "Continue". Your JWT app will be activated in your account. From this app, you will need the generated **API Key**, **API Secret** and **Verification Token**. 
 
 
-5. Clone this repository by running this git command in your terminal: `git clone https://github.com/ShrijanaCodes/SampleWebhookApp.git`
+5. Clone this repository by running this git command in your terminal: `git clone https://github.com/ShrijanaCodes/UncubedDemoApp.git`
 6. Install all the dependencies by running `npm install` command in your terminal.
 7. Create a .env file and a gitignore file in your project by running this command in your terminal: `touch .env .gitignore`
 8. Open the .env file in your editor and include the following variables and their values in this file:
