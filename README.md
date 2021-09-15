@@ -1,5 +1,5 @@
-# UncubedDemoApp
-This is a demo app built for a workshop that I will be conducting for Uncubed.
+# HackathonDemoApp
+This is a demo app built for your reference on how to use Zoom Developer Resources.
 
 **Prerequisites:**
 * [Zoom account](https://zoom.us) with Zoom for Developer Role.
